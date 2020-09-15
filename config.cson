@@ -13,8 +13,6 @@
     userId: "d0122f6f-fab8-4731-bbff-ddf48974f35e"
   kite:
     showWelcomeNotificationOnStartup: false
-  "linter-ui-default":
-    showPanel: true
   "prettier-atom":
     formatOnSaveOptions:
       enabled: true
