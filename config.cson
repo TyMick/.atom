@@ -1,0 +1,33 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+    useTreeSitterParsers: false
+  editor:
+    fontFamily: "FiraCode-Retina, Menlo, Consolas, DejaVu Sans Mono, monospace"
+  "exception-reporting":
+    userId: "d0122f6f-fab8-4731-bbff-ddf48974f35e"
+  kite:
+    showWelcomeNotificationOnStartup: false
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+  welcome:
+    showOnStartup: false
+".console.python.text":
+  editor:
+    preferredLineLength: 88
+    tabLength: 4
+".python.regexp.source":
+  editor:
+    preferredLineLength: 88
+".python.source":
+  editor:
+    preferredLineLength: 88
+".python.text.traceback":
+  editor:
+    preferredLineLength: 88
+    tabLength: 4
