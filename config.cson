@@ -1,5 +1,6 @@
 "*":
   core:
+    restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
     themes: [
       "one-light-ui"
@@ -13,15 +14,20 @@
     userId: "d0122f6f-fab8-4731-bbff-ddf48974f35e"
   kite:
     showWelcomeNotificationOnStartup: false
+  "linter-ui-default": {}
   "prettier-atom":
     formatOnSaveOptions:
       enabled: true
+  "spell-check": {}
   welcome:
     showOnStartup: false
 ".console.python.text":
   editor:
     preferredLineLength: 88
     tabLength: 4
+".plain.text":
+  editor:
+    softWrap: true
 ".python.regexp.source":
   editor:
     preferredLineLength: 88
